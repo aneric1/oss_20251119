@@ -1,2 +1,9 @@
-# oss_20251119
-과제2
+# git top, ps, jobs, kill 조사
+
+## git top
+
+## git ps
+
+## git jobs
+
+## git kill
